@@ -1,1 +1,1 @@
-just the repo for my portfolio nothing to see here
+just a redirect to [here](https://ahmedalihashi.github.io/portfolio/)
